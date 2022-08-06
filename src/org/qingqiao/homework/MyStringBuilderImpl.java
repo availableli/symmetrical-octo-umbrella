@@ -6,6 +6,7 @@ public class MyStringBuilderImpl implements MyStringBuilder {
     private char[] content;
     private Integer length;
 //    private Integer capacity;
+    //1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 
     public MyStringBuilderImpl() {
 //        this.capacity = 16;
